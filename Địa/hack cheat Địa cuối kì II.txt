@@ -1,302 +1,611 @@
+---
+
 31
 
-1. Ý nào sau đây không thể hiện sự phát triển của đường hàng không?
-1. Khối lượng hàng hóa vận chuyển có xu hướng giảm dần
-2. Loại hình vận tải chiếm tỉ trọng cao nhất trong khối lượng luân chuyển hàng hóa của nước ta hiện nay là
-1. đường biển
-3. Trong định hướng phát triển thông tin liên lạc, nước ta cần ưu tiên xây dựng và hiện đại hóa mạng thông tin
-1. quốc tế
-4. Đặc điểm nổi bật của ngành bưu chính nước ta là
-1. tính phục vụ cao, mạng lưới rộng khắp
-5. Hướng chuyên môn hóa vận tải hàng hóa và hành khách của giao thông vận tải đường thủy nước ta thể hiện rõ nhất ở vùng
-1. Đồng bằng sông Cửu Long
-6. Ý nào sau đây không thể hiện vai trò của quốc lộ 1
-1. Kéo dài hơn 2300km
-7. Đặc điểm loại hình vận tải đường ống ở nước ta:
-1. Phát triển gắn liền với ngành dầu khí.
-8. Thành tựu của ngành viễn thông nước ta về mặt khoa học, công nghệ là:
-1. Mạng viễn thông với kĩ thuật số, tự động hóa cao và đa dịch vụ.
-9. Hướng phát triển nào không thuộc ngành bưu chính viễn thông trong thời gian tới là:
-1. Hóa học hóa.
-10. Ngành đường biển của nước ta có khối lượng luận chyển hàng hóa lớn vì
-1. vận tải đường biển chủ yếu là vận chuyển quốc tế nên có đường dài
-11. Trong những năm qua ngành đường biển của nước ta phát triển nhanh là do
-1. nước ta đang thực hiện mở cửa, quan hệ quốc tế ngày càng tăng.
-12. Ý nào sau đây không thể hiện rõ vai trò quan trọng của bưu chính nước ta?
-1. Mạng lưới phủ rộng khắp.
-13. Hạn chế lớn nhất của ngành vận tải đường sông của nước ta là
-1. Bị hiện tượng sa bồi và sự thay đổi thất thường về độ sâu luồng lạch
-14. Nước ta có mạng lưới giao thông vận tải khá hoàn chỉnh điều đó được thể hiện ở chỗ
-1. Có đầy đủ các loại hình giao thông vận tải
-15. Để đạt trình độ hiện đại ngang tầm các nước tiên tiến trong khu vực ngành bưu chính cần phát triển theo hướng
-1. Tin học hóa và tự động hóa
-16. điểm nổi bật của ngành viễn thông nước ta là
-1. tốc độ phát triển nhanh vượt bậc và đón đầu được các kĩ thuật hiện đại
-17. Vai trò của thông tin liên lạc không thể hiện qua chức năng
-1. tham gia vận chuyển hành khách và hàng hóa
-18. đặc điểm của đường bộ nước ta
-1. mạng lưới ô tô đã phủ kín các vùng, ngày càng được mở rộng và hiện đại hóa
-19. Loại hình vận tải chiếm tỉ trọng cao nhất trong khối lượng vận tải hành khách và hàng hoá của nước ta hiện nay là
-1. đường ô tô
-20. Loại hình nào sau đây thuộc về hoạt động bưu chính
-1. thư, báo
-1. Ngoài yếu tố tài nguyên, yếu tố có vai trò hết sức quan trọng đối với sự phát triển du lịch quốc tế của nước ta hiện nay là
-1. nước ta có tình hình chính trị ổn định, xã hội an toàn
-2: Kim ngạch nhập khẩu tăng lên khá mạnh, phản ánh
-1. Sự phục hồi và phát triển của tiêu dùng, của sản xuất và việc đáp ứng yêu cầu xuất khẩu.
-3: Trong số các mặt hàng chế biến xuất khẩu, tỉ trọng hàng gia công còn lớn là do
-1. Chưa có thương hiệu uy tín trên thị trường quốc tế
-4: Đây là một giải pháp quan trọng nhằm phát triển du lịch bền vững của nước ta
-1. Tôn tạo và bảo vệ tài nguyên - môi trường gắn với lợi ích cộng đồng.
-5. Hoạt động du lịch biển của các tỉnh phía Nam có thể diễn ra quanh năm vì
-1. Không có mùa đông lạnh
-6. Biểu hiện nào sau đây không nói lên được sự phong phú của tài nguyên du lịch về mặt địa hình của nước ta
-1. Có nhiều sông hồ
-7. Chiến lược phát triển du lịch bền vững thể hiện qua các khía cạnh
-1. Bền vững kinh tế xã hội tài nguyên môi trường
-8. Trở ngại về tài nguyên du lịch nhân văn thuyết phục trong phát triển du lịch nước ta hiện nay là
-1. Sự xuống cấp của các khu di tích lịch sử - văn hóa
-9. Nước ta có bao nhiêu vùng du lịch?
-1. 3 vùng
-10. Mục tiêu quan trọng hàng đầu trong chiến lược phát triển du lịch nước ta là
-1. Phát triển du lịch bền vững
-11. Hoạt động nội thương phát triển mạnh ở những vùng có
-1. Kinh tế phát triển và dân cư đông
-12. Điểm nào sau đây không đúng với ngành du lịch nước ta?
-1. Số lượng khách nội địa ít hơn khách quốc tế
-13. Thị trường nhập khẩu chủ yếu của nước ta là
-1. Châu Á Thái Bình Dương và châu Âu
-14. Tài nguyên du lịch tự nhiên bao gồm
-1. Địa hình, khí hậu, nước, sinh vật
-15. Hiện nay, sự phân bố các hoạt động du lịch của nước ta phụ thuộc nhiều nhất vào
-1. Sự phân bố các tài nguyên du lịch
-16. Sự đổi mới, hoạt động buôn bán của nước ta ngày càng mở rộng theo hướng
-1. Đa dạng hóa, đa phương hóa thị trường
-17. Các lễ hội của nước ta thường có đặc điểm
-1. Luôn gắn liền với các di tích văn hoá - lịch sử
-18. Biểu hiện rõ nhất của sự phát triển ngành nội thương là về mặt
-1. Tổng mức bán lẻ hàng hoá
-19. Hạn chế chính về xuất khẩu của nước ta là
-1. Tỉ trọng hàng đã qua chế biến hoặc tinh chế còn thấp và các mặt hàng xuất khẩu chủ lực về nông nghiệp còn ít
-20. Một vai trò quan trọng của du lịch ít được đề cập đến là
-1. Bảo vệ các giá trị văn hoá và môi trường
 
-32 - 35
+---
+
+
+1. Ý nào sau đây không thể hiện sự phát triển của đường hàng không?
+==> Khối lượng hàng hóa vận chuyển có xu hướng giảm dần
+
+
+2. Loại hình vận tải chiếm tỉ trọng cao nhất trong khối lượng luân chuyển hàng hóa của nước ta hiện nay là
+==> đường biển
+
+
+3. Trong định hướng phát triển thông tin liên lạc, nước ta cần ưu tiên xây dựng và hiện đại hóa mạng thông tin
+==> quốc tế
+
+
+4. Đặc điểm nổi bật của ngành bưu chính nước ta là
+==> tính phục vụ cao, mạng lưới rộng khắp
+
+
+5. Hướng chuyên môn hóa vận tải hàng hóa và hành khách của giao thông vận tải đường thủy nước ta thể hiện rõ nhất ở vùng
+==> Đồng bằng sông Cửu Long
+
+
+6. Ý nào sau đây không thể hiện vai trò của quốc lộ 1
+==> Kéo dài hơn 2300km
+
+
+7. Đặc điểm loại hình vận tải đường ống ở nước ta:
+==> Phát triển gắn liền với ngành dầu khí.
+
+
+8. Thành tựu của ngành viễn thông nước ta về mặt khoa học, công nghệ là:
+==> Mạng viễn thông với kĩ thuật số, tự động hóa cao và đa dịch vụ.
+
+
+9. Hướng phát triển nào không thuộc ngành bưu chính viễn thông trong thời gian tới là:
+==> Hóa học hóa.
+
+
+10. Ngành đường biển của nước ta có khối lượng luận chyển hàng hóa lớn vì
+==> vận tải đường biển chủ yếu là vận chuyển quốc tế nên có đường dài
+
+
+11. Trong những năm qua ngành đường biển của nước ta phát triển nhanh là do
+==> nước ta đang thực hiện mở cửa, quan hệ quốc tế ngày càng tăng.
+
+
+12. Ý nào sau đây không thể hiện rõ vai trò quan trọng của bưu chính nước ta?
+==> Mạng lưới phủ rộng khắp.
+
+
+13. Hạn chế lớn nhất của ngành vận tải đường sông của nước ta là
+==> Bị hiện tượng sa bồi và sự thay đổi thất thường về độ sâu luồng lạch
+
+
+14. Nước ta có mạng lưới giao thông vận tải khá hoàn chỉnh điều đó được thể hiện ở chỗ
+==> Có đầy đủ các loại hình giao thông vận tải
+
+
+15. Để đạt trình độ hiện đại ngang tầm các nước tiên tiến trong khu vực ngành bưu chính cần phát triển theo hướng
+==> Tin học hóa và tự động hóa
+
+
+16. điểm nổi bật của ngành viễn thông nước ta là
+==> tốc độ phát triển nhanh vượt bậc và đón đầu được các kĩ thuật hiện đại
+
+
+17. Vai trò của thông tin liên lạc không thể hiện qua chức năng
+==> tham gia vận chuyển hành khách và hàng hóa
+
+
+18. đặc điểm của đường bộ nước ta
+==> mạng lưới ô tô đã phủ kín các vùng, ngày càng được mở rộng và hiện đại hóa
+
+
+19. Loại hình vận tải chiếm tỉ trọng cao nhất trong khối lượng vận tải hành khách và hàng hoá của nước ta hiện nay là
+==> đường ô tô
+
+
+20. Loại hình nào sau đây thuộc về hoạt động bưu chính
+==> thư, báo
+
+
+1: Ngoài yếu tố tài nguyên, yếu tố có vai trò hết sức quan trọng đối với sự phát triển du lịch quốc tế của nước ta hiện nay là
+==> nước ta có tình hình chính trị ổn định, xã hội an toàn
+
+
+2: Kim ngạch nhập khẩu tăng lên khá mạnh, phản ánh
+==> Sự phục hồi và phát triển của tiêu dùng, của sản xuất và việc đáp ứng yêu cầu xuất khẩu.
+
+
+3: Trong số các mặt hàng chế biến xuất khẩu, tỉ trọng hàng gia công còn lớn là do
+==> Chưa có thương hiệu uy tín trên thị trường quốc tế
+
+
+4: Đây là một giải pháp quan trọng nhằm phát triển du lịch bền vững của nước ta
+==> Tôn tạo và bảo vệ tài nguyên - môi trường gắn với lợi ích cộng đồng.
+
+
+5. Hoạt động du lịch biển của các tỉnh phía Nam có thể diễn ra quanh năm vì
+==> Không có mùa đông lạnh
+
+
+6. Biểu hiện nào sau đây không nói lên được sự phong phú của tài nguyên du lịch về mặt địa hình của nước ta
+==> Có nhiều sông hồ
+
+
+7. Chiến lược phát triển du lịch bền vững thể hiện qua các khía cạnh
+==> Bền vững kinh tế xã hội tài nguyên môi trường
+
+
+8. Trở ngại về tài nguyên du lịch nhân văn thuyết phục trong phát triển du lịch nước ta hiện nay là
+==> Sự xuống cấp của các khu di tích lịch sử - văn hóa
+
+
+9. Nước ta có bao nhiêu vùng du lịch?
+==> 3 vùng
+
+
+10. Mục tiêu quan trọng hàng đầu trong chiến lược phát triển du lịch nước ta là
+==> Phát triển du lịch bền vững
+
+
+11. Hoạt động nội thương phát triển mạnh ở những vùng có
+==> Kinh tế phát triển và dân cư đông
+
+
+12. Điểm nào sau đây không đúng với ngành du lịch nước ta?
+==> Số lượng khách nội địa ít hơn khách quốc tế
+
+
+13. Thị trường nhập khẩu chủ yếu của nước ta là
+==> Châu Á Thái Bình Dương và châu Âu
+
+
+14. Tài nguyên du lịch tự nhiên bao gồm
+==> Địa hình, khí hậu, nước, sinh vật
+
+
+15. Hiện nay, sự phân bố các hoạt động du lịch của nước ta phụ thuộc nhiều nhất vào
+==> Sự phân bố các tài nguyên du lịch
+
+
+16. Sự đổi mới, hoạt động buôn bán của nước ta ngày càng mở rộng theo hướng
+==> Đa dạng hóa, đa phương hóa thị trường
+
+
+17. Các lễ hội của nước ta thường có đặc điểm
+==> Luôn gắn liền với các di tích văn hoá - lịch sử
+
+
+18. Biểu hiện rõ nhất của sự phát triển ngành nội thương là về mặt
+==> Tổng mức bán lẻ hàng hoá
+
+
+19. Hạn chế chính về xuất khẩu của nước ta là
+==> Tỉ trọng hàng đã qua chế biến hoặc tinh chế còn thấp và các mặt hàng xuất khẩu chủ lực về nông nghiệp còn ít
+
+
+20. Một vai trò quan trọng của du lịch ít được đề cập đến là
+==> Bảo vệ các giá trị văn hoá và môi trường
+
+
+---
+
+
+Bài 32 33 35
+
+
+---
+
 
 1. Năm 2005, so với đàn lợn cả nước, đàn lợn vùng Trung du và miền núi Bắc Bộ chiếm
-1. 21%
-2. Khó khăn lớn của vùng Trung du và miền núi Bắc Bộ trong việc phát triển cây công nghiệp, cây dược liệu, rau quả cận nhiệt và ôn đới là
-1. hiện tượng rét đậm, rét hại, sương muối và thiếu nước vào mùa đông
-3. Nguyên nhân làm cho đàn lợn của Trung du và miền núi Bắc Bộ tăng nhanh là
-1. hoa màu lương thực dành nhiều hơn cho chăn nuôi
-4. Ý nào không phải là thế mạnh của Trung du và miền núi Bắc Bộ ?
-1. Hình thành cơ cấu nông - lâm- ngư nghiệp đặc thù
-5. So với trữ năng thủy điện của cả nước, hệ thống sông Hồng chiếm hơn
-1. 1/3
-6. Thế mạnh nào sau đây không phải của vùng trung du và miền núi Bắc Bộ?
-1. chăn nuôi gia cầm (đặc biệt là vịt đàn).
-7. Đất chiếm phần lớn diện tích của vùng Trung du và miền núi Bắc Bộ là
-1. đất feralit trên đá vôi
-8. Ý nào sau đây không đúng với vùng Trung du và miền núi Bắc Bộ?
-1. Chiếm 30,5% số dân cả nước
-9. Trung du và miền núi Bắc Bộ có thế mạnh rất nổi bật về
-1. năng lượng
-10. So với khu vực Đông Bắc, khu vực Tây Bắc có:
-1. Trữ năng thủy điện lớn hơn.
-11. Trâu được nuôi nhiều ở Trung du và miền núi Bắc Bộ, vì loại gia súc này:
-1. Ưa ẩm, khỏe, chịu rét được và dễ thích nghi với điều kiện chăn thả trong rừng,
-12. Loại đất chiếm phần lớn diện tích ở Trung du và miền núi Bắc Bộ là:
-1. Đất feralit trên đá phiến, đá vôi và các đá mẹ khác.
-13. Khó khăn đã hạn chế việc phát triển chăn nuôi gia súc lớn của vùng Trung du và miền núi Bắc Bộ là
-1. Công tác vận chuyển sản phẩm đến nơi tiêu thụ khó khăn
-14. Xu hướng mới trong phát triển chăn nuôi gần đây ở TDMNBB là sự tăng nhanh đàn lợn, do
-1. Cơ sở thức ăn được đảm bảo tốt hơn và đáp ứng nhu cầu thị trường trong nước và xuất khẩu
-15. TDMNBB có diện tích... trong các vùng ở nước ta
-1. lớn nhất
-16. Trung du và miền núi Bắc Bộ là vùng chuyên canh chè lớn nhất nước ta nhờ
-1. Có địa hình phần lớn là đồi núi và có một mùa đông lạnh
-17. Trung du và miền núi Bắc Bộ ngày càng thuận lợi cho việc giao lưu với các vùng khác trong nước và xây dựng nền kinh tế mở nhờ có
-1. Vị trí địa lý đặc biệt và mạng lưới giao thông vận tải đang được đầu tư, nâng cấp
-18. Ý nào không phải là thế mạnh về kinh tế biển của vùng trung du và miền núi Bắc Bộ
-1. Khai thác và chế biến khoáng sản
-19. Nguyên nhân chủ yếu là cho TDMNBB trông được nhiều cây có nguồn gốc cận nhiệt và ôn đới là
-1. điều kiện địa hình, đất, khí hậu - thời tiết thuận lợi cho trồng các cây này
-20. Vùng Trung du và miền núi Bắc Bộ gồm...tỉnh
-1. 15
-1. Sản xuất công nghiệp của Bắc Trung Bộ chưa phát triển trước hết là do
-1. cơ sở hạ tầng lạc hậu, cơ sở năng lượng chưa phát triển
-5.Cơ cấu kinh tế nông thôn ven biển ở bắc Trung Bộ đang thay đổi rõ rệt nhờ
-1. Việc nuôi trồng thủy sản nước lợ, mặn
-6. Loại rừng chiếm diện tích lớn nhất ở bắc Trung Bộ là
-1. Rừng phòng hộ
-7. Thế mạnh của vùng đồi trước núi ở bắc Trung Bộ là
-1. Chăn nuôi đại gia súc
-8. Việc bảo vệ vốn rừng ở vùng núi Trung du của Bắc Trung Bộ có ý nghĩa
-1. Bảo vệ môi trường sống của động vật hoang dã giữ gìn nguồn gen của các loài động vật quý hiếm
-2. Vùng đồng bằng ven biển ở Bắc Trung Bộ thuận lợi nhất cho phát triển
-1. cây công nghiệp hàng năm
-3. Về điều kiện kinh tế - xã hội, khó khăn nào sau đây không phải của Bắc Trung Bộ?
-1. Mật độ dân số cao nhất cả nước.
-4. Ven biển Bắc Trung Bộ có khả năng dồi dào cho
-1. đánh bắt hải sản và nuôi trồng thủy sản
-9. Việc phát triển và bảo vệ vốn rừng ở Bắc Trung Bộ có vai trò cực kì quan trọng vì
-1. Sông ngòi ngắn, dốc , rất dễ xảy ra lũ
-10. Khoáng sản có giá trị kinh tế ở Bắc Trung Bộ là
-1. Crômit, thiếc, sắt, đá vôi, sét làm mi măng, đá quý
-11. Ngành công nghiệp chủ yếu của trung tâm công nghiệp Thanh Hóa - Bỉm Sơn là
-1. Vật liệu xây dựng
-12. Diện tích rừng của Bắc Trung Bộ chiếm .... % diện tích rừng cả nước
-1. 20
-13. Bắc Trung bộ không mấy thuận lợi cho việc phát triển cây lương thực lúa là do
-1. Đất cát pha là chủ yếu
-14. phát biểu nào sau đây không đúng khi nói về hiện trạng công nghiệp vùng Bắc Trung bộ
-1. Chưa thật sự định hình, còn nhiều biến đổi
-15. công nghiệp của vùng Bắc Trung bộ phát triển chưa tương xứng với tiềm năng của vùng là do
-1. Sự yếu kém về cơ sở hạ tầng đặc biệt là giao thông vận tải
-16. Về mặt lãnh thổ ở Bắc Trung bộ bộ phận có nhiều điều kiện để phát triển tập trung công nghiệp là
-1. Hành lang quốc lộ 1A và ven biển
-17. Việc giải quyết nhu cầu về điện của Bắc Trung Bộ chủ yếu dựa vào
-1. Lưới điện quốc gia
-18. Vấn đề nổi bật trong việc sử dụng đất nông nghiệp ở Bắc Trung bộ là
-1. Chống cát bay, cát chảy lấn chiếm đồng ruộng
-19. Việc hình thành cơ cấu nông - lâm - ngư của vùng Bắc Trung Bộ xuất phát từ nguyên nhân
-1. Sự phân hoá điều kiện tự nhiên, dân cư, xã hội
-20. Hiện nay cơ cấu kinh tế nông thông ven biển ở Bắc Trung Bộ đang có sự thay đổi rõ nét, chủ yếu nhờ vào việc phát triển
-1. Nuôi trồng thuỷ sản nước lợ, nước mặn
+==> 21%
 
-33
+
+2. Khó khăn lớn của vùng Trung du và miền núi Bắc Bộ trong việc phát triển cây công nghiệp, cây dược liệu, rau quả cận nhiệt và ôn đới là
+==> hiện tượng rét đậm, rét hại, sương muối và thiếu nước vào mùa đông
+
+
+3. Nguyên nhân làm cho đàn lợn của Trung du và miền núi Bắc Bộ tăng nhanh là
+==> hoa màu lương thực dành nhiều hơn cho chăn nuôi
+
+
+4. Ý nào không phải là thế mạnh của Trung du và miền núi Bắc Bộ ?
+==> Hình thành cơ cấu nông - lâm- ngư nghiệp đặc thù
+
+
+5. So với trữ năng thủy điện của cả nước, hệ thống sông Hồng chiếm hơn
+==> 1/3
+
+
+6. Thế mạnh nào sau đây không phải của vùng trung du và miền núi Bắc Bộ?
+==> chăn nuôi gia cầm (đặc biệt là vịt đàn).
+
+
+7. Đất chiếm phần lớn diện tích của vùng Trung du và miền núi Bắc Bộ là
+==> đất feralit trên đá vôi
+
+
+8. Ý nào sau đây không đúng với vùng Trung du và miền núi Bắc Bộ?
+==> Chiếm 30,5% số dân cả nước
+
+
+9. Trung du và miền núi Bắc Bộ có thế mạnh rất nổi bật về
+==> năng lượng
+
+
+10. So với khu vực Đông Bắc, khu vực Tây Bắc có:
+==> Trữ năng thủy điện lớn hơn.
+
+
+11. Trâu được nuôi nhiều ở Trung du và miền núi Bắc Bộ, vì loại gia súc này:
+==> Ưa ẩm, khỏe, chịu rét được và dễ thích nghi với điều kiện chăn thả trong rừng,
+
+
+12. Loại đất chiếm phần lớn diện tích ở Trung du và miền núi Bắc Bộ là:
+==> Đất feralit trên đá phiến, đá vôi và các đá mẹ khác.
+
+
+13. Khó khăn đã hạn chế việc phát triển chăn nuôi gia súc lớn của vùng Trung du và miền núi Bắc Bộ là
+==> Công tác vận chuyển sản phẩm đến nơi tiêu thụ khó khăn
+
+
+14. Xu hướng mới trong phát triển chăn nuôi gần đây ở TDMNBB là sự tăng nhanh đàn lợn, do
+==> Cơ sở thức ăn được đảm bảo tốt hơn và đáp ứng nhu cầu thị trường trong nước và xuất khẩu
+
+
+15. TDMNBB có diện tích... trong các vùng ở nước ta
+==> lớn nhất
+
+
+16. Trung du và miền núi Bắc Bộ là vùng chuyên canh chè lớn nhất nước ta nhờ
+==> Có địa hình phần lớn là đồi núi và có một mùa đông lạnh
+
+
+17. Trung du và miền núi Bắc Bộ ngày càng thuận lợi cho việc giao lưu với các vùng khác trong nước và xây dựng nền kinh tế mở nhờ có
+==> Vị trí địa lý đặc biệt và mạng lưới giao thông vận tải đang được đầu tư, nâng cấp
+
+
+18. Ý nào không phải là thế mạnh về kinh tế biển của vùng trung du và miền núi Bắc Bộ
+==> Khai thác và chế biến khoáng sản
+
+
+19. Nguyên nhân chủ yếu là cho TDMNBB trông được nhiều cây có nguồn gốc cận nhiệt và ôn đới là
+==> điều kiện địa hình, đất, khí hậu - thời tiết thuận lợi cho trồng các cây này
+
+
+20. Vùng Trung du và miền núi Bắc Bộ gồm...tỉnh
+==> 15
+==> Sản xuất công nghiệp của Bắc Trung Bộ chưa phát triển trước hết là do
+==> cơ sở hạ tầng lạc hậu, cơ sở năng lượng chưa phát triển
+
+
+5.Cơ cấu kinh tế nông thôn ven biển ở bắc Trung Bộ đang thay đổi rõ rệt nhờ
+==> Việc nuôi trồng thủy sản nước lợ, mặn
+
+
+6. Loại rừng chiếm diện tích lớn nhất ở bắc Trung Bộ là
+==> Rừng phòng hộ
+
+
+7. Thế mạnh của vùng đồi trước núi ở bắc Trung Bộ là
+==> Chăn nuôi đại gia súc
+
+
+8. Việc bảo vệ vốn rừng ở vùng núi Trung du của Bắc Trung Bộ có ý nghĩa
+==> Bảo vệ môi trường sống của động vật hoang dã giữ gìn nguồn gen của các loài động vật quý hiếm
+
+
+2. Vùng đồng bằng ven biển ở Bắc Trung Bộ thuận lợi nhất cho phát triển
+==> cây công nghiệp hàng năm
+
+
+3. Về điều kiện kinh tế - xã hội, khó khăn nào sau đây không phải của Bắc Trung Bộ?
+==> Mật độ dân số cao nhất cả nước.
+
+
+4. Ven biển Bắc Trung Bộ có khả năng dồi dào cho
+==> đánh bắt hải sản và nuôi trồng thủy sản
+
+
+9. Việc phát triển và bảo vệ vốn rừng ở Bắc Trung Bộ có vai trò cực kì quan trọng vì
+==> Sông ngòi ngắn, dốc , rất dễ xảy ra lũ
+
+
+10. Khoáng sản có giá trị kinh tế ở Bắc Trung Bộ là
+==> Crômit, thiếc, sắt, đá vôi, sét làm mi măng, đá quý
+
+
+11. Ngành công nghiệp chủ yếu của trung tâm công nghiệp Thanh Hóa - Bỉm Sơn là
+==> Vật liệu xây dựng
+
+
+12. Diện tích rừng của Bắc Trung Bộ chiếm .... % diện tích rừng cả nước
+==> 20
+
+
+13. Bắc Trung bộ không mấy thuận lợi cho việc phát triển cây lương thực lúa là do
+==> Đất cát pha là chủ yếu
+
+
+14. phát biểu nào sau đây không đúng khi nói về hiện trạng công nghiệp vùng Bắc Trung bộ
+==> Chưa thật sự định hình, còn nhiều biến đổi
+
+
+15. công nghiệp của vùng Bắc Trung bộ phát triển chưa tương xứng với tiềm năng của vùng là do
+==> Sự yếu kém về cơ sở hạ tầng đặc biệt là giao thông vận tải
+
+
+16. Về mặt lãnh thổ ở Bắc Trung bộ bộ phận có nhiều điều kiện để phát triển tập trung công nghiệp là
+==> Hành lang quốc lộ 1A và ven biển
+
+
+17. Việc giải quyết nhu cầu về điện của Bắc Trung Bộ chủ yếu dựa vào
+==> Lưới điện quốc gia
+
+
+18. Vấn đề nổi bật trong việc sử dụng đất nông nghiệp ở Bắc Trung bộ là
+==> Chống cát bay, cát chảy lấn chiếm đồng ruộng
+
+
+19. Việc hình thành cơ cấu nông - lâm - ngư của vùng Bắc Trung Bộ xuất phát từ nguyên nhân
+==> Sự phân hoá điều kiện tự nhiên, dân cư, xã hội
+
+
+20. Hiện nay cơ cấu kinh tế nông thông ven biển ở Bắc Trung Bộ đang có sự thay đổi rõ nét, chủ yếu nhờ vào việc phát triển
+==> Nuôi trồng thuỷ sản nước lợ, nước mặn
+
+
+---
+
+
+Bài 33
+
+
+---
+
 
 Chọn ý SAI: Đồng bằng sông Hồng có vị trí thuận lợi cho phát triển kinh tế vì đồng bằng này ở vị trí:
-1. dễ dàng giao lưu với các nước khác trên thế giới bằng đường bộ
-Một trong những ngành công nghiệp trọng điểm của đồng bằng sông Hồng là
-1. cơ khí - điện tử
-Loại đất có diện tích lớn nhất của đồng bằng sông Hồng
-1. đất không được bồi đắp phù sa hàng năm
-Tài nguyên nước của đồng bằng sông Hồng phong phú nhờ sự có mặt của
-1. nước mặt, nước dưới đất, nước nóng, nước khoáng
-So với diện tích tự nhiên của đồng bằng sông Hồng, diện tích đất nông nghiệp chiếm
-1. 51,2%
-Có ý nghĩa lớn đối với sự chuyển dịch cơ cấu kinh tế của khu vực III ở đồng bằng sống Hồng là sự phát triển nhanh của các ngành
-1. tài chính, ngân hàng, giáo dục-đào tạo, du lịch
-diện tích tự nhiên của vùng đồng bằng sông Hồng khoảng....nghìn km²
-1. 15
-Quá trình chuyển dịch cơ cấu kinh tế của khu vực II gắn liền với việc hình thành các ngành công nghiệp trọng điểm để sử dụng có hiệu quả thế mạnh....của đồng bằng sông Hồng
-1. tự nhiên và con người
-Một trong những định hướng chuyển dịch cơ cấu kinh tế ở Đồng bằng sông Hồng là
-1. hình thành các ngành công nghiệp trọng điểm
-Phải đặt vấn đề chuyển dịch cơ cấu kinh tế ở Đồng bằng sông Hồng vì
-1. việc chuyển dịch cơ cấu còn chậm, chưa phát huy hết các thế mạnh của vùng
-Nhận định nào sau đây chưa chính xác?
-1. bình quân lương thực đầu người của đồng bằng sông Hồng lớn nhất cả nước
-Loại khoáng sản có giá trị hơn cả ở đồng bằng sông Hồng là
-1. đá vôi và sét cao lanh
-Đặc điểm nổi bật của vùng đồng bằng sông Hồng là
-1. có diện tích nhỏ nhất nhưng mật độ dân số cao nhất trong số các vùng
-Ngành dệt may và da giày trở thành ngành công nghiệp trọng điểm của vùng đồng bằng sông Hồng là dựa trên thế mạnh về
-1. nguồn lao động và thị trường
-Những ngành công nghiệp nào không phải là ngành công nghiệp trọng điểm của đồng bằng sông Hồng ?
-1. Luyện kim và hóa chất
-Trong cơ cấu kinh tế theo ngành của vùng đồng bằng sông Hồng (năm 2006) ngành chiếm tỉ trọng cao nhất là
-1. dịch vụ
-Đồng bằng sông Hồng do phù sa của sông nào bồi đắp
-1. Hồng và Thái Bình
-Đồng bằng sông Hồng là vùng có diện tích
-1. nhỏ nhất nước ta
-Vấn đề nổi bật trong việc sử dụng đất nông nghiệp ở đồng bằng sông Hồng là
-1. đất đai ở nhiều nơi bị bạc màu
-Số dân của đồng bằng sông Hồng chiếm bao nhiêu dân số cả nước
-1. hơn 1/5
+==> dễ dàng giao lưu với các nước khác trên thế giới bằng đường bộ
 
-Atlas 23 24 25
+
+Một trong những ngành công nghiệp trọng điểm của đồng bằng sông Hồng là
+==> cơ khí - điện tử
+
+
+Loại đất có diện tích lớn nhất của đồng bằng sông Hồng
+==> đất không được bồi đắp phù sa hàng năm
+
+
+Tài nguyên nước của đồng bằng sông Hồng phong phú nhờ sự có mặt của
+==> nước mặt, nước dưới đất, nước nóng, nước khoáng
+
+
+So với diện tích tự nhiên của đồng bằng sông Hồng, diện tích đất nông nghiệp chiếm
+==> 51,2%
+
+
+Có ý nghĩa lớn đối với sự chuyển dịch cơ cấu kinh tế của khu vực III ở đồng bằng sống Hồng là sự phát triển nhanh của các ngành
+==> tài chính, ngân hàng, giáo dục-đào tạo, du lịch
+
+
+diện tích tự nhiên của vùng đồng bằng sông Hồng khoảng....nghìn km²
+==> 15
+
+
+Quá trình chuyển dịch cơ cấu kinh tế của khu vực II gắn liền với việc hình thành các ngành công nghiệp trọng điểm để sử dụng có hiệu quả thế mạnh....của đồng bằng sông Hồng
+==> tự nhiên và con người
+
+
+Một trong những định hướng chuyển dịch cơ cấu kinh tế ở Đồng bằng sông Hồng là
+==> hình thành các ngành công nghiệp trọng điểm
+
+
+Phải đặt vấn đề chuyển dịch cơ cấu kinh tế ở Đồng bằng sông Hồng vì
+==> việc chuyển dịch cơ cấu còn chậm, chưa phát huy hết các thế mạnh của vùng
+
+
+Nhận định nào sau đây chưa chính xác?
+==> bình quân lương thực đầu người của đồng bằng sông Hồng lớn nhất cả nước
+
+
+Loại khoáng sản có giá trị hơn cả ở đồng bằng sông Hồng là
+==> đá vôi và sét cao lanh
+
+
+Đặc điểm nổi bật của vùng đồng bằng sông Hồng là
+==> có diện tích nhỏ nhất nhưng mật độ dân số cao nhất trong số các vùng
+
+
+Ngành dệt may và da giày trở thành ngành công nghiệp trọng điểm của vùng đồng bằng sông Hồng là dựa trên thế mạnh về
+==> nguồn lao động và thị trường
+
+
+Những ngành công nghiệp nào không phải là ngành công nghiệp trọng điểm của đồng bằng sông Hồng ?
+==> Luyện kim và hóa chất
+
+
+Trong cơ cấu kinh tế theo ngành của vùng đồng bằng sông Hồng (năm 2006) ngành chiếm tỉ trọng cao nhất là
+==> dịch vụ
+
+
+Đồng bằng sông Hồng do phù sa của sông nào bồi đắp
+==> Hồng và Thái Bình
+
+
+Đồng bằng sông Hồng là vùng có diện tích
+==> nhỏ nhất nước ta
+
+
+Vấn đề nổi bật trong việc sử dụng đất nông nghiệp ở đồng bằng sông Hồng là
+==> đất đai ở nhiều nơi bị bạc màu
+
+
+Số dân của đồng bằng sông Hồng chiếm bao nhiêu dân số cả nước
+==> hơn 1/5
+
+
+---
+
+
+Atlas: 23 24 25
+
+
+---
 
 
 Dựa vào Átlát trang 23, quốc lộ 1A không đi qua vùng kinh tế
-1. Tây Nguyên
+==> Tây Nguyên
+
+
 Căn cứ vào Atlat Địa lí VN trang 23, cho biết các đảo ( hoặc quần đảo ) nào sau đây có sân bay và đường bay?
-1. Côn Sơn , Phú Quốc
+==> Côn Sơn , Phú Quốc
+
+
 Căn cứ vào Atlat Địa lí Việt Nam trang 23, cho biết cảng nào sau đây không phải là cảng biển ?
-1. Nam Định
+==> Nam Định
+
+
 Căn cứ vào Atlat Địa lí Việt Nam trang 23, cho biết sân bay nào sau đây nằm trên đảo?
-1. Phú Quốc
+==> Phú Quốc
+
+
 Căn cứ vào Atlat Địa lý Việt Nam trang 23, hãy cho biết 2 cửa khẩu quốc tế nào sau đây nằm trên đường biên giới giữa Việt Nam và Trung Quốc ?
-1. Lào Cai, Hữu Nghị
+==> Lào Cai, Hữu Nghị
+
+
 Căn cứ vào Atlat trang 23, đường Hồ Chí Minh là trục đường bộ xuyên quốc gia thứ hai, có ý nghĩa phát triển kinh tế xã hội ở phía nào sau đây ?
-1. Tây
+==> Tây
+
+
 Căn cứ vào Atlat Địa lí Việt Nam trang 23, cho biết tuyến đường sắt nào sau đây chạy theo hướng bắc nam?
-1. Thống Nhất
+==> Thống Nhất
+
+
 Căn cứ Átlát trang 23, các tuyến đường ngang ở Bắc Trung Bộ là
-1. 7, 8, 9
+==> 7, 8, 9
+
+
 Căn cứ vào Atlat Địa lí Việt Nam trang 23, cho biết những nơi nào sau đây vừa có cảng biển vừa có sân bay ?
-1. Hải Phòng, Đà Nẵng
+==> Hải Phòng, Đà Nẵng
+
+
 Căn cứ vào Atlat Địa lí Việt Nam trang 23, cho biết cảng nào sau đây không phải là cảng sông ?
-1. Nhà Bè
+==> Nhà Bè
+
+
 Căn cứ vào Địa lý Việt Nam trang 23, hãy sắp xếp các cảng biển theo thứ tư từ Bắc vào Nam
-1. Hải Phòng, Dung Quất, Vũng Tàu
+==> Hải Phòng, Dung Quất, Vũng Tàu
+
+
 Căn cứ vào Atlat trang 23, tuyến đường bộ có ý nghĩa quan trọng nhất trong phát triển kinh tế, văn hoá, xã hội và quốc phòng của nước ta hiện nay là
-1. Quốc lộ 1
+==> Quốc lộ 1
+
+
 Căn cứ vào Atlat Địa lí Việt Nam trang 23, cho biết quốc lộ nào sau đây nối trực tiếp cửa khẩu quốc tế Cầu Treo với Quốc lộ 1
-1. Quốc lộ 8
+==> Quốc lộ 8
+
+
 Căn cứ vào Địa lý Việt Nam trang 23, hãy cho biết cửa khẩu quốc tế nào sau đây thuộc vùng ĐBSCL ?
-1. Tịnh Biên
+==> Tịnh Biên
+
+
 Căn cứ vào Atlat ĐLVN trang 23, cho biết tuyến đường sắt Thống Nhất nối các địa điểm nào sau đây ?
-1. Hà Nội – TP . Hồ Chí Minh
+==> Hà Nội – TP . Hồ Chí Minh
+
+
 Atlas/25, Di sản nào sau đây không phải di sản văn hóa thế giới
-1. phong nha- kẻ bàng
+==> phong nha- kẻ bàng
+
+
 Atlas/25, Vườn quốc gia Tràm Chim thuộc tỉnh nào?
-1. Đồng Tháp
+==> Đồng Tháp
+
+
 Atlas/25, Vườn quốc gia nào thuộc tỉnh Ninh Bình
-1. Cúc Phương
+==> Cúc Phương
+
+
 Atlas/25, Bãi biển Sa Huỳnh thuộc tỉnh nào
-1. Quảng Ngãi
+==> Quảng Ngãi
+
+
 Atlas/25, điểm du lịch nào ko thuộc Bắc Trung Bộ
-1. Đồ Sơn
+==> Đồ Sơn
+
+
 Atlas/25, Điểm du lịch Đà Lạt là loại tìa nguyên du lịch nào?
-1. Di tích lịch sử cách mạng
+==> Di tích lịch sử cách mạng
+
+
 Atlas/25, Điểm du lịch nào ở độ cao 0-50m ?
-1. Bình châu
+==> Bình châu
+
+
 Atlas/25, địa danh nào là khu dự trữ sinh quyển TG
-1. Mũi cà mau
+==> Mũi cà mau
+
+
 Atlas/25, địa danh nào là Di sản văn hóa TG
-1. Phố cổ Hội An
+==> Phố cổ Hội An
+
+
 Atlas/25, Trung tâm du lịch nào có ý nghĩa vùng của ĐBS Cửu Long
-1. Cần Thơ
+==> Cần Thơ
+
+
 Atlas/25, Vườn quốc gia nào thuộc tỉnh Nghệ An
-1. Pù mát
+==> Pù mát
+
+
 Atlas/25, đâu không phải di sản văn hóa TG
-1. Vịnh hạ long
+==> Vịnh hạ long
+
+
 Atlas/25, Trung tâm du lịch nào có ý nghĩa vùng của Đông Nam Bộ
-1. Vũng Tàu
+==> Vũng Tàu
+
+
 Atlas/25, Trung tâm du lịch nào có du lịch biển
-1. Nha Trang
+==> Nha Trang
+
+
 Atlas/25, Vườn quốc gia nào nằm trên đảo
-1. Cát Bà
+==> Cát Bà
+
+
 Câu 1: Căn cứ vào Atlat trang 24, nơi nào dưới đây là trung tâm mua bán hàng hoá lớn nhất cả nước ?
-1. TP.HCM
+==> TP.HCM
+
+
 Câu 2: Quan sát Atlat Địa lí VN trang 24. Thị trường nhập khẩu chủ yếu của nước ta
-1. Các nước ASEAN
+==> Các nước ASEAN
+
+
 Câu 3: Căn cứ vào Atlat Địa lý Việt Nam trang 24, hãy cho biết tỉnh nào sau đây của vùng Nam Trung Bộ có tổng mức bán lẻ hàng hóa và doanh thu dịch vụ tiêu dùng cao nhất?
-1. Đà Nẵng
+==> Đà Nẵng
+
+
 Câu 4: Căn cứ vào Atlat Địa lý Việt Nam trang 24, hãy cho biết nhóm hàng nào có giá trị nhập khẩu chiếm tỉ trọng cao nhất nước ta?
-1. A Nguyên, nhiên, vật liệu.
+==> A Nguyên, nhiên, vật liệu.
+
+
 Câu 5: Căn cứ vào Atlat trang 24, chiếm tỉ trọng cao nhất trong cơ cấu hàng xuất khẩu của nước ta hiện nay là
-1. D Hàng công nghiệp nhẹ và tiểu thủ công.
+==> D Hàng công nghiệp nhẹ và tiểu thủ công.
+
+
 Câu 6: Căn cứ vào Atlat Địa lý Việt Nam trang 24, hãy cho biết quốc gia nào sau đây Việt Nam nhập siêu?
-1. C Trung Quốc.
+==> C Trung Quốc.
+
+
 Câu 7: Quan sát Atlat Địa lí VN trang 24. Các tính xuất khẩu cao nhất nước ta
-1. A Tp. Hồ Chí Minh, Hà Nội, Bà Rịa-Vũng Tàu, Bình Dương, Đồng Nai
+==> A Tp. Hồ Chí Minh, Hà Nội, Bà Rịa-Vũng Tàu, Bình Dương, Đồng Nai
+
+
 Câu 8: Dựa vào biểu đồ xuất nhập khẩu hàng hoá qua các năm (Atlat ĐLVN trang 24), năm 2007 nước ta nhập siêu là bao nhiêu tỉ USD
-1. B 14,2 ti USD.
+==> B 14,2 ti USD.
+
+
 Câu 9: Quan sát Atlat Địa lí VN trang 24. Các tỉnh nhập khẩu cao nhất nước
-1. A Tp. Hồ Chí Minh, Hà Nội, Hải Phòng, Bình Dương, Đồng Nai
+==> A Tp. Hồ Chí Minh, Hà Nội, Hải Phòng, Bình Dương, Đồng Nai
+
+
 Câu 10: Dựa vào Átlát trang 24, Việt Nam có giá trị xuất, nhập khẩu hàng hóa lớn nhất với quốc gia
-1. D. Nhật Bản.
+==> D. Nhật Bản.
+
+
 Câu 11: Căn cứ Ấtlát trang 24, vùng có giá trị xuất, nhập khẩu hàng hóa lớn nhất nước ta là
-1. Á Đông Nam Bộ
+==> Á Đông Nam Bộ
+
+
 Câu 12: Căn cứ vào Atlat Địa lý Việt Nam trang 24, hãy cho biết nhận định nào sau đây là không đúng khi nhận xét về giá trị xuất – nhập khẩu hàng hóa của nước ta giai đoạn 2000 –2007)2
-1. C. Giá trị xuất khẩu tăng nhanh hơn nhập khẩu.
+==> C. Giá trị xuất khẩu tăng nhanh hơn nhập khẩu.
+
+
 Câu 13: Căn cứ vào Atlattrang 24, thị trường nhập khẩu chủ yếu của Việt Nam là
-1. C. Châu Á
+==> C. Châu Á
+
+
 Câu 14: Quan sát Atlat Địa li VN trang 24. Thị trường xuất khẩu chủ yếu của nước ta
-1. D. Nhật bản, hoa kì
+==> D. Nhật bản, hoa kì
+
+
 Câu 15: Căn cứ vàoAtlat Địa lý Việt Nam trang 24, hãy cho biết tỉnh, thành phố nào có giá trị xuất nhập khẩu cao nhất nước ta
-1. B. Thành phố Hồ Chí Minh.
+==> B. Thành phố Hồ Chí Minh.
