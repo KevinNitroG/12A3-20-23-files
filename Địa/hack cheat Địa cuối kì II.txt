@@ -1,5 +1,6 @@
 ---
 
+
 31
 
 
@@ -253,7 +254,9 @@ Bài 32 33 35
 
 20. Vùng Trung du và miền núi Bắc Bộ gồm...tỉnh
 ==> 15
-==> Sản xuất công nghiệp của Bắc Trung Bộ chưa phát triển trước hết là do
+
+
+1. Sản xuất công nghiệp của Bắc Trung Bộ chưa phát triển trước hết là do
 ==> cơ sở hạ tầng lạc hậu, cơ sở năng lượng chưa phát triển
 
 
